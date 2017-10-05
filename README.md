@@ -16,7 +16,7 @@ Here is an example for running a script on the database ...
 
 ```bash
 > cd ~/<deployment_directory>
-> mysql -u root -p < create_db.sql
+> mysql -u root -p < create_db_flightsim.sql
 
 Enter the root password when prompted
 ```
