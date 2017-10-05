@@ -10,7 +10,16 @@ Included in this repo are scripts which:
 - create the `admin` user, with both localhost and remote access
 
 
-# USE
+## DEPLOYMENT
+---
+Just clone this repo into your project directory.
+
+```bash
+> git clone https://github.com/ourstemprojects/flightsimulation_db ~/<deployment_directory>
+```
+
+
+## USE
 ---
 Here is an example for running a script on the database ...
 
